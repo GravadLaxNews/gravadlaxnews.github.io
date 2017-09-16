@@ -9,4 +9,5 @@ h1.h1-header {
     width: 80%;
     position: relative;
     left: 10%;
+    border-bottom: 1px solid white;
 }
