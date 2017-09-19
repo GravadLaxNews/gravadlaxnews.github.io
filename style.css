@@ -1,7 +1,8 @@
 @font-face {
-     font-family: "GravadLax";
-     src: url("DustySalmon.ttf") format("ttf");
+    font-family: GravadLax;
+    src: url(DustySalmon.ttf);
 }
+
 body {
     background-color: #fffefe;
     font-family: 'Open Sans Light', sans-serif;
