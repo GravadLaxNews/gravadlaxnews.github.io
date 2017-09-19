@@ -1,3 +1,7 @@
+@font-face {
+     font-family: "Open Sans";
+     src: url("DustySamlon.ttf") format("ttf");
+}
 body {
     background-color: #fffefe;
     font-family: 'Open Sans Light', sans-serif;
