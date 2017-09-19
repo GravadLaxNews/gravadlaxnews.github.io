@@ -1,14 +1,9 @@
-@font-face {
-    font-family: GravadLax;
-    src: url(DustySalmon.ttf);
-}
-
 body {
     background-color: #fffefe;
     font-family: 'Open Sans Light', sans-serif;
 }
 h1.h1-header {
-    font-family: GravadLax;
+    font-family: 'Playfair Display', serif;
     text-align: center;
     color: #000000;
     display: inline-block;
