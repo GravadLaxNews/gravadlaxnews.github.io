@@ -1,5 +1,5 @@
 @font-face {
-     font-family: "Open Sans";
+     font-family: "GravadLax";
      src: url("DustySamlon.ttf") format("ttf");
 }
 body {
@@ -7,6 +7,7 @@ body {
     font-family: 'Open Sans Light', sans-serif;
 }
 h1.h1-header {
+    font-family: GravadLax;
     text-align: center;
     color: #000000;
     display: inline-block;
